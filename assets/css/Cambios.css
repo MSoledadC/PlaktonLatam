@@ -3,11 +3,11 @@
 /*---- Imagen Menu * ---- */
 
 .header-area .main-nav .logo img {
-    max-height: 50px; /* ajusta el tamaño que quieras */
-    width: 100%;      /* mantiene proporción */
-    height: auto;
-    display: block;
-    margin-top: 20px;
+    max-height: 50px !important; /* ajusta el tamaño que quieras */
+    width: 100% !important;      /* mantiene proporción */
+    height: auto !important;
+    display: block !important;
+    margin-top: 20px !important;
 }
 
 /*---- Nav Menu * ---- */
